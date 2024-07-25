@@ -18,12 +18,6 @@ The AudioPlayer Plugin adds an audio player for MP3 (.mpeg) files to your Open J
 5. Verify that the plugin is listed. If so, activate it.
 6. If the plugin does not appear in the list, review the previous steps to ensure the installation was completed correctly.
 
-## Configuration
-The plugin is configured to be enabled by default. If you need to change the configuration:
-1. **Plugin Configuration:**
-   - Open the `settings.xml` file in the plugin folder.
-   - Modify the line `<value>true</value>` to `<value>false</value>` to disable the plugin if needed.
-
 ## Usage
 Once installed and enabled, the plugin will integrate into the article and issue presentation pages. You will see an audio player on the galley pages with controls to play, skip forward, rewind, and adjust playback speed.
 
@@ -77,12 +71,6 @@ El Plugin AudioPlayer agrega un reproductor de audio para archivos MP3 (.mpeg) a
 4. Accede al panel de administración de OJS y navega a la sección de "Plugins Instalados".
 5. Verifica que el plugin esté listado. Si es así, actívalo.
 6. Si el plugin no aparece en la lista, revisa los pasos anteriores para asegurar que la instalación se haya realizado correctamente.
-
-## Configuración
-El plugin está configurado para estar habilitado por defecto. Si necesitas cambiar la configuración:
-1. **Configuración del Plugin:**
-   - Abre el archivo `settings.xml` en la carpeta del plugin.
-   - Modifica la línea `<value>true</value>` a `<value>false</value>` para deshabilitar el plugin si es necesario.
 
 ## Uso
 Una vez instalado y habilitado, el plugin se integrará en las páginas de presentación de artículos y números de la revista. Verás un reproductor de audio en las páginas de galerada con controles para reproducir, avanzar, retroceder y cambiar la velocidad.
